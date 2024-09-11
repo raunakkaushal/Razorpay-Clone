@@ -42,7 +42,6 @@ A simple clone of the Razorpay payment gateway interface built with **Tailwind C
 ```bash
 ├── index.html          # Main HTML page
 ├── main.css            # Custom CSS (using Tailwind)
-├── /components         # Reusable components (e.g., navbar, footer)
 ├── /assets             # Images and icons
 └── README.md           # Project documentation
 ```
