@@ -34,7 +34,7 @@ A simple clone of the Razorpay payment gateway interface built with **Tailwind C
 
 4. Run the project locally:
    ```bash
-   npm run dev
+   npm run start / npm start
    ```
 
 ## Project Structure
